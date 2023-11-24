@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#page{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 40%;
+}
+
+img{
+    width: 100%;
+}
+
+.formGroup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0px;
+}
+
+input{
+    border: none;
+    width: 90%;
+    height: 30px;
+    border-bottom: 2px solid gray;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(0, 195, 143);
+    color: white;
+    box-shadow: 5px 5px 5px gray;
+}
