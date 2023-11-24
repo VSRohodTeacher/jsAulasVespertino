@@ -53,3 +53,10 @@ button{
     color: white;
     box-shadow: 5px 5px 5px gray;
 }
+
+#resposta{
+    margin: 20px 0px;
+    color: rgb(0, 95, 70);
+    font-size: 20pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
